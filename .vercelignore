@@ -1,0 +1,11 @@
+.env
+.env.*
+production.env
+.venv
+data
+staticfiles
+__pycache__
+backups
+.git
+core/tests.py
+core/test_cloud.py
