@@ -1,0 +1,8 @@
+.env
+production.env
+.venv
+data
+staticfiles
+.git
+__pycache__
+backups

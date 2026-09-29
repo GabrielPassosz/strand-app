@@ -1,0 +1,13 @@
+.env
+production.env
+.venv/
+data/
+staticfiles/
+__pycache__/
+*.pyc
+*.sqlite3
+backups/
+
+.env.*
+!.env.example
+.vercel/
