@@ -24,3 +24,4 @@ entrypoint = "strand.wsgi:application"
 
 [tool.vercel.scripts]
 build = "python -u manage.py check --deploy --fail-level WARNING 2>&1"
+
